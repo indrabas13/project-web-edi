@@ -1,0 +1,66 @@
+body{
+  text-align: center;
+  color: black;
+}
+
+.featurette-divider{
+  margin: 5rem 0;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.con1{
+  padding: 2%;
+}
+
+.navbar-brand{
+  padding-left: 10%;
+}
+
+.nav-link{
+  color: black;
+}
+
+.navbar-nav{
+  padding-right: 10%;
+}
+
+.carouselImg{
+  width: 30%;
+}
+
+.carouselImg2{
+  width: 25%;
+}
+
+.background-color{
+  background-color: #CDFCF6;
+}
+
+#slidepicture{
+  padding: 30px 0;
+}
+
+.textHere{
+  padding: 30px 0;
+}
+
+.line{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.vivi{
+  width: 10%;
+}
+
+.address{
+  margin-top: 5%;
+  background-color: #EDEDED;
+}
+
+.bottom{
+
+}
